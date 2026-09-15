@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>QR-Code — GartenArt & BauProjekte</title>
+    <style>
+      :root {
+        --forest: #2f3d2b;
+        --gold: #b99a4e;
+        --cream: #f6f2e8;
+      }
+      body {
+        margin: 0;
+        background: var(--cream);
+        color: var(--forest);
+        font-family: Georgia, serif;
+        padding: 32px 20px 64px;
+      }
+      h1 {
+        font-weight: 400;
+        font-size: 2rem;
+        margin: 0 0 8px;
+      }
+      p {
+        max-width: 36rem;
+        line-height: 1.5;
+      }
+      .gold {
+        color: var(--gold);
+        font-size: 0.75rem;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+        font-family: sans-serif;
+        font-weight: 700;
+      }
+      img {
+        display: block;
+        background: #fff;
+        max-width: min(420px, 100%);
+        height: auto;
+        margin: 16px 0;
+      }
+      a {
+        color: var(--forest);
+      }
+      .box {
+        margin-top: 28px;
+        padding-top: 20px;
+        border-top: 1px solid var(--gold);
+      }
+    </style>
+  </head>
+  <body>
+    <p class="gold">GartenArt & BauProjekte</p>
+    <h1>QR-Code für Flyer und Karte</h1>
+    <p>
+      Finger lange auf das Bild legen, dann <strong>Bild sichern</strong>. Danach an Claude
+      schicken. Der Code öffnet www.gartenart-bauprojekte.de
+    </p>
+
+    <div class="box">
+      <p class="gold">Nur der Code</p>
+      <a href="/qr/qr.png" download="QR_GartenArt_Website.png">
+        <img src="/qr/qr.png" alt="QR-Code zur Website GartenArt und BauProjekte" />
+      </a>
+      <p><a href="/qr/qr.png" download="QR_GartenArt_Website.png">PNG speichern</a>
+        ·
+        <a href="/qr/qr.svg" download="QR_GartenArt_Website.svg">SVG speichern</a></p>
+    </div>
+
+    <div class="box">
+      <p class="gold">Karte mit Logo und Text</p>
+      <a href="/qr/karte.png" download="GartenArt_Website_QR_Karte.png">
+        <img src="/qr/karte.png" alt="Karte GartenArt mit QR-Code" style="max-width:min(520px,100%);background:transparent" />
+      </a>
+      <p><a href="/qr/karte.png" download="GartenArt_Website_QR_Karte.png">Karte speichern</a></p>
+    </div>
+  </body>
+</html>

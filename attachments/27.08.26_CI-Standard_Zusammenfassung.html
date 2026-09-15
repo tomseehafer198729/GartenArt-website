@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GartenArt &amp; BauProjekte — CI-Standard, Stand 27.08.2026</title>
+<link href="https://fonts.googleapis.com/css2?family=Spectral:wght@300;400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--gruen:#2F3D2B;--tief:#243020;--blatt:#55764C;--gold:#B99A4E;--creme:#F6F2E8;--hell:#FAF8F2;--leinen:#DCD5C4;--text:#2B2B28;--stein:#6E6A5F;--rot:#8B3A2A}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--creme);color:var(--text);font-family:'Inter',system-ui,sans-serif;font-size:10.5pt;line-height:1.5}
+.page{width:210mm;min-height:297mm;margin:0 auto 8mm;padding:16mm 18mm 14mm;background:var(--creme);position:relative}
+h1{font-family:'Spectral',serif;font-weight:300;font-size:30pt;line-height:1;color:var(--gruen)}
+h2{font-family:'Spectral',serif;font-weight:400;font-size:16pt;color:var(--gruen);margin:8mm 0 2mm;padding-top:2.5mm;border-top:1px solid var(--gold)}
+h3{font-weight:700;font-size:7.5pt;letter-spacing:.14em;text-transform:uppercase;color:var(--stein);margin:4mm 0 1.5mm}
+p{margin-bottom:2mm}
+ul{margin:0 0 2.5mm 4.5mm}li{margin-bottom:.8mm}
+.kicker{font-weight:700;font-size:7.5pt;letter-spacing:.2em;text-transform:uppercase;color:var(--gold)}
+table{width:100%;border-collapse:collapse;font-size:9pt;margin:2mm 0 4mm}
+th{text-align:left;font-size:7pt;letter-spacing:.12em;text-transform:uppercase;color:var(--stein);border-bottom:1px solid var(--gruen);padding:0 3mm 1.2mm 0;vertical-align:bottom}
+td{padding:1.5mm 3mm 1.5mm 0;border-bottom:1px solid var(--leinen);vertical-align:top}
+.sw{display:flex;gap:2.5mm;margin:2mm 0 4mm}
+.sw div{flex:1;border:1px solid var(--leinen)}
+.sw .c{height:16mm;display:block}
+.sw .t{padding:1.5mm 2mm 2mm;font-size:7pt;line-height:1.35}
+.sw .t b{display:block;font-family:'Spectral',serif;font-size:10pt;font-weight:500;color:var(--gruen)}
+.sw .t code{font-family:ui-monospace,Menlo,monospace;font-size:7pt;color:var(--stein)}
+.box{background:var(--hell);border:1px solid var(--leinen);border-left:2.5px solid var(--gold);padding:3mm 4mm;margin:3mm 0}
+.box.gruen{background:var(--gruen);border:none;color:#EDE9DD}
+.box.gruen .kicker{color:var(--gold)}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:6mm}
+.todo td:first-child{font-weight:600}
+.prio{font-size:7pt;font-weight:700;letter-spacing:.1em;text-transform:uppercase}
+.p1{color:var(--rot)}.p2{color:var(--gold)}.p3{color:var(--stein)}
+.footer{position:absolute;bottom:9mm;left:18mm;right:18mm;display:flex;justify-content:space-between;font-size:7pt;color:var(--stein);border-top:1px solid var(--leinen);padding-top:1.5mm}
+.lock{display:flex;align-items:center;gap:3mm}
+@media print{body{background:#fff}.page{margin:0;page-break-after:always}@page{size:A4;margin:0}}
+@media screen{body{padding:8mm 0}.page{box-shadow:0 2px 20px rgba(47,61,43,.10)}}
+@media (max-width:820px){.page{width:100%;padding:8mm 6mm}.sw{flex-wrap:wrap}.sw div{flex:1 1 40%}.two{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+
+<svg width="0" height="0" style="position:absolute"><symbol id="signet" viewBox="0 0 100 100"><g fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="50" r="46"/><line x1="20" y1="76" x2="80" y2="76"/><polyline points="26,52 42,38 58,52"/><polyline points="30,52 30,76"/><polyline points="54,52 54,76"/><rect x="38" y="63" width="8" height="13"/><line x1="66" y1="76" x2="66" y2="56"/><circle cx="66" cy="46" r="10"/></g></symbol></svg>
+
+<!-- SEITE 1 -->
+<section class="page">
+  <div class="kicker">Corporate Design · Verbindlich</div>
+  <h1>GartenArt &amp; BauProjekte</h1>
+  <p style="color:var(--stein);margin-top:2mm">Zusammenfassung der beschlossenen Festlegungen · Stand 27. August 2026</p>
+
+  <h2>1 · Farben</h2>
+  <div class="sw">
+    <div><span class="c" style="background:#2F3D2B"></span><span class="t"><b>Waldgrün</b><code>#2F3D2B</code><br>Primär: Flächen, Überschriften, Logo</span></div>
+    <div><span class="c" style="background:#243020"></span><span class="t"><b>Tiefgrün</b><code>#243020</code><br>Kontrast in grünen Flächen</span></div>
+    <div><span class="c" style="background:#55764C"></span><span class="t"><b>Blattgrün</b><code>#55764C</code><br>Fernwirkung: Fahrzeug, Kleidung</span></div>
+    <div><span class="c" style="background:#B99A4E"></span><span class="t"><b>Messinggold</b><code>#B99A4E</code><br>Akzent, nie Fläche</span></div>
+  </div>
+  <div class="sw">
+    <div><span class="c" style="background:#F6F2E8;border-bottom:1px solid #DCD5C4"></span><span class="t"><b>Creme</b><code>#F6F2E8</code><br>Grundfläche aller Medien</span></div>
+    <div><span class="c" style="background:#FAF8F2;border-bottom:1px solid #DCD5C4"></span><span class="t"><b>Cremeweiß</b><code>#FAF8F2</code><br>Karten, Text auf Grün</span></div>
+    <div><span class="c" style="background:#DCD5C4"></span><span class="t"><b>Leinen</b><code>#DCD5C4</code><br>Linien, Rahmen</span></div>
+    <div><span class="c" style="background:#2B2B28"></span><span class="t"><b>Textbraun</b><code>#2B2B28</code><br>Fließtext · Fußnoten <code>#6E6A5F</code></span></div>
+  </div>
+
+  <table>
+    <tr><th style="width:32%">Regel</th><th>Festlegung</th></tr>
+    <tr><td>Flächenverteilung</td><td>60 % Creme · 30 % Grün · max. 10 % Gold</td></tr>
+    <tr><td>Gold</td><td>Nur Linien, Kicker, Preise, Zahlen ab 16 pt. Nie Fließtext, nie Hintergrundfläche</td></tr>
+    <tr><td>Schwarz und Weiß</td><td>Kein reines #000000, kein reines #FFFFFF</td></tr>
+    <tr><td>CMYK</td><td>Richtwerte Waldgrün 65/45/70/55 · Blattgrün 65/35/70/25 · Gold 25/35/80/10 · Creme 2/3/8/0 — verbindlicher Wert wird nach erstem Proof eingetragen</td></tr>
+  </table>
+
+  <h2>2 · Schrift</h2>
+  <table>
+    <tr><th style="width:32%">Einsatz</th><th>Festlegung</th></tr>
+    <tr><td>Überschriften, Preise</td><td><strong>Spectral</strong> — Light 300, Regular 400, Medium 500</td></tr>
+    <tr><td>Fließtext, Kicker, Tabellen</td><td><strong>Inter</strong> — Regular 400, Medium 500, Bold 700</td></tr>
+    <tr><td>Dritte Schrift</td><td>Ausgeschlossen. Cormorant Garamond, Lato und DM Sans sind abgelöst</td></tr>
+    <tr><td>Zahlen in Angeboten</td><td>Tabellenziffern aktivieren (<code>font-variant-numeric: tabular-nums</code>)</td></tr>
+  </table>
+
+  <div class="two">
+    <div>
+      <h3>Größen Print (A5)</h3>
+      <table style="margin-top:1mm">
+        <tr><td>Headline</td><td>44–54 pt, Zeilenabstand 0,90</td></tr>
+        <tr><td>Kicker</td><td>8 pt, Versalien, Laufweite +200</td></tr>
+        <tr><td>Zwischentitel</td><td>22–28 pt</td></tr>
+        <tr><td>Fließtext</td><td>9,5–10,5 pt, Zeilenabstand 1,45</td></tr>
+        <tr><td>Preise</td><td>16–20 pt, Gold zulässig</td></tr>
+        <tr><td>Fußnoten</td><td>6,5–7 pt, Steingrau</td></tr>
+      </table>
+    </div>
+    <div>
+      <h3>Größen Web (Desktop)</h3>
+      <table style="margin-top:1mm">
+        <tr><td>H1</td><td>64–76 px</td></tr>
+        <tr><td>H2</td><td>40–46 px</td></tr>
+        <tr><td>H3</td><td>26–30 px</td></tr>
+        <tr><td>Kicker</td><td>12 px, Laufweite .22em</td></tr>
+        <tr><td>Fließtext</td><td>17–18 px, Zeilenhöhe 1,65</td></tr>
+        <tr><td>Button</td><td>16 px</td></tr>
+      </table>
+    </div>
+  </div>
+  <p style="font-size:9pt;color:var(--stein)">Immer linksbündig, nie Blocksatz. Spectral nicht unter 8 pt.</p>
+
+  <h2>3 · Formsprache</h2>
+  <table>
+    <tr><th style="width:32%">Element</th><th>Festlegung</th></tr>
+    <tr><td>Eckenradius</td><td>2 px Web, 0 mm Print. Fotos immer scharfkantig</td></tr>
+    <tr><td>Schatten</td><td>Keine</td></tr>
+    <tr><td>Linien</td><td>Eine Stärke: 1 px bzw. 0,25 mm. Leinen für Struktur, Gold für Betonung, max. 3 Goldlinien pro Seite</td></tr>
+    <tr><td>Farbverläufe</td><td>Keine — nicht in Flächen, Schrift oder Logo</td></tr>
+    <tr><td>Symbole</td><td>Nur Linien-Icons, 1,5 px Strich. Keine Emojis, auch nicht auf Social Media</td></tr>
+    <tr><td>Weißraum</td><td>Mindestens 30 % jeder Fläche bleibt frei</td></tr>
+  </table>
+
+  <div class="footer"><span>GartenArt &amp; BauProjekte — CI-Standard</span><span>Seite 1 von 2</span></div>
+</section>
+
+<!-- SEITE 2 -->
+<section class="page">
+  <h2 style="margin-top:0;border-top:none;padding-top:0">4 · Wiedererkennungselement: Parzellenraster</h2>
+  <div class="two">
+    <div>
+      <p>Feine goldene Linien, die eine Fläche in ungleiche Rechtecke teilen — wie ein Lageplan ein Grundstück.</p>
+      <table>
+        <tr><th style="width:52%">Werbemittel</th><th>Stärke</th></tr>
+        <tr><td>Visitenkarte, Flyer, Schild, Fahrzeug, Webseite</td><td><strong>kräftig</strong></td></tr>
+        <tr><td>Angebot, Rechnung, Briefbogen, Instagram-Textgrafik</td><td>dezent</td></tr>
+      </table>
+      <h3>Unveränderlich</h3>
+      <ul>
+        <li>immer Gold, immer ungleiche Rechtecke</li>
+        <li>eine Linienstärke pro Werbemittel</li>
+        <li>nie über Fotos</li>
+        <li>nie mehr als einmal pro Seite</li>
+        <li>nie durch das Logo hindurch</li>
+      </ul>
+    </div>
+    <div>
+      <svg viewBox="0 0 340 200" width="100%" style="border:1px solid var(--leinen);display:block">
+        <rect width="340" height="200" fill="#2F3D2B"/>
+        <g stroke="#B99A4E" stroke-width=".9" fill="none" opacity=".5">
+          <rect x="16" y="14" width="104" height="76"/><rect x="132" y="14" width="192" height="40"/>
+          <rect x="132" y="64" width="86" height="26"/><rect x="16" y="102" width="202" height="84"/>
+          <rect x="232" y="102" width="92" height="84"/>
+        </g>
+        <g stroke="#B99A4E" stroke-width=".9" fill="none" opacity=".28"><line x1="16" y1="52" x2="120" y2="52"/><line x1="68" y1="14" x2="68" y2="90"/></g>
+        <rect x="132" y="14" width="192" height="40" fill="#B99A4E" opacity=".14"/>
+        <text x="30" y="132" fill="#FAF8F2" font-family="Spectral" font-size="19">Gärten, die mit</text>
+        <text x="30" y="152" fill="#FAF8F2" font-family="Spectral" font-size="19">dem Klima rechnen.</text>
+        <line x1="30" y1="162" x2="70" y2="162" stroke="#B99A4E" stroke-width="1"/>
+        <text x="30" y="176" fill="#B99A4E" font-family="Inter" font-size="7" letter-spacing="1.6">GARTENART &amp; BAUPROJEKTE</text>
+      </svg>
+      <p style="font-size:8.5pt;color:var(--stein);margin-top:2mm">Kräftige Ausführung, Visitenkarten-Rückseite. Das Signet sitzt im freien Rasterfeld unten rechts.</p>
+    </div>
+  </div>
+
+  <h2>5 · Logo</h2>
+  <div class="two">
+    <div>
+      <table>
+        <tr><th style="width:44%">Werbemittel</th><th>Baustein und Position</th></tr>
+        <tr><td>Visitenkarte vorne</td><td>Lockup waagerecht, oben links</td></tr>
+        <tr><td>Visitenkarte hinten</td><td>Signet allein, unten rechts, Gold</td></tr>
+        <tr><td>Flyer</td><td>Signet + Wortmarke im Fußband, rechts</td></tr>
+        <tr><td>Angebot, Rechnung, Brief</td><td>Lockup waagerecht, oben links</td></tr>
+        <tr><td>Webseite</td><td>Lockup waagerecht, oben links</td></tr>
+        <tr><td>Schild, Roll-Up</td><td>Lockup senkrecht, mittig oben</td></tr>
+        <tr><td>Fahrzeug</td><td>Lockup waagerecht, Cremeweiß auf Blattgrün</td></tr>
+        <tr><td>Arbeitskleidung</td><td>Signet allein, Brust links, einfarbig</td></tr>
+      </table>
+    </div>
+    <div>
+      <h3 style="margin-top:0">Grundregeln</h3>
+      <ul>
+        <li>Ein Signet pro Werbemittel, nicht pro Seite</li>
+        <li>Farbversionen: Waldgrün auf Creme · Cremeweiß auf Grün · Gold auf Grün</li>
+        <li>Signet allein: min. 10 mm Druck, 40 px Web, 40 mm Stickerei</li>
+        <li>Lockup waagerecht: min. 30 mm Breite, 140 px Web</li>
+        <li>Schutzraum: ringsum halbe Signethöhe frei</li>
+        <li>Nie verzerren, drehen, umfärben, mit Schatten oder Rahmen</li>
+      </ul>
+      <div class="box" style="padding:2.5mm 3.5mm">
+        <p style="margin:0;font-size:9pt">Aktuell gilt das vorhandene Kreissignet als Übergangslösung. Handgezeichnete Linienvariante geplant für Q1 2027.</p>
+      </div>
+    </div>
+  </div>
+
+  <h2>6 · Schreibweisen und Pflichtangaben</h2>
+  <table>
+    <tr><th style="width:32%">Punkt</th><th>Festlegung</th></tr>
+    <tr><td>Wortmarke</td><td><strong>GartenArt &amp; BauProjekte</strong> — großes A, kaufmännisches &amp;, kein Umbruch davor</td></tr>
+    <tr><td>Kontaktblock</td><td>Tom Seehafer · Saalburgstraße 21 · 61440 Oberursel (Taunus) — zeichengenau identisch auf allen Medien und im Google-Profil</td></tr>
+    <tr><td>Steuerhinweis</td><td>„Gemäß §19 UStG wird keine Umsatzsteuer ausgewiesen." — Inter 7 pt, Steingrau</td></tr>
+    <tr><td>Dokumentnummern</td><td>Angebot <code>ANG-2026-001</code> · Rechnung <code>RE-2026-001</code> · GEK <code>GEK-2026-001</code></td></tr>
+    <tr><td>Anrede</td><td>Durchgehend Sie, auch auf Social Media</td></tr>
+    <tr><td>Ausgeschlossene Floskeln</td><td>„Ihr Garten in besten Händen" · „Qualität aus Meisterhand" · „Rundum-sorglos" · „Ihr Partner rund um …"</td></tr>
+  </table>
+
+  <h2>7 · Offene Aufgaben</h2>
+  <table class="todo">
+    <tr><th style="width:34%">Aufgabe</th><th>Inhalt</th><th style="width:16%">Priorität</th></tr>
+    <tr><td>Domain sichern</td><td>Hauptadresse plus kurze Weiterleitung, .de. Danach Geschäfts-E-Mail einrichten, Freemail ablösen</td><td class="prio p1">sofort</td></tr>
+    <tr><td>Logo vektorisieren</td><td>Nachzeichnung beauftragen. Liefergegenstand: SVG, EPS, PDF, PNG transparent in 3 Größen, je 3 Farbversionen plus Schwarz</td><td class="prio p1">sofort</td></tr>
+    <tr><td>Homepage überarbeiten</td><td>Lovable-Projekt auf neue Farbtokens, Spectral und Inter, Radius 2 px, Schatten entfernen, Parzellenraster als Abschnittstrenner</td><td class="prio p1">hoch</td></tr>
+    <tr><td>Druckfarben fixieren</td><td>Proof bei der ersten Auflage mitbestellen, Ergebnis als endgültige CMYK-Werte hier eintragen. Einmalig</td><td class="prio p2">bei 1. Druck</td></tr>
+    <tr><td>Bildstil festlegen</td><td>Feste Bearbeitungsvorgabe für alle Projektfotos, Vorher/Nachher-Regeln, Formate</td><td class="prio p2">mittel</td></tr>
+    <tr><td>Vorlagen erstellen</td><td>Angebot, Rechnung, E-Mail-Signatur im neuen Standard</td><td class="prio p2">mittel</td></tr>
+    <tr><td>Claim entwickeln</td><td>Eine Markenzeile für alle Werbemittel</td><td class="prio p2">mittel</td></tr>
+    <tr><td>Google-Unternehmensprofil</td><td>Logo, Titelbild, Fotos, identischer Kontaktblock</td><td class="prio p2">mittel</td></tr>
+    <tr><td>Canva-Markenkit</td><td>Neue Farben und Schriften hinterlegen, alte löschen</td><td class="prio p3">mittel</td></tr>
+    <tr><td>GEK-Skill angleichen</td><td>Farbwerte im Skill auf diesen Standard umstellen</td><td class="prio p3">mittel</td></tr>
+    <tr><td>Markenrecherche DPMA</td><td>Prüfen, ob „GartenArt" als Wortmarke frei ist</td><td class="prio p3">später</td></tr>
+    <tr><td>GEK-Institut</td><td>Eigenes Erscheinungsbild — Zertifizierer darf nicht aussehen wie Zertifizierter</td><td class="prio p3">später</td></tr>
+  </table>
+
+  <div class="box gruen">
+    <div class="kicker">Merksatz</div>
+    <p style="margin:1.5mm 0 0">Ein Erscheinungsbild besteht aus vier Ebenen: Farbe wirkt aus 20 Metern, Schrift aus 2 Metern, Form beim Lesen, Verhalten erst über Wochen. Die ersten drei sind hiermit festgelegt. Die vierte — Reaktionszeit, Aufbau der Angebote, was nach dem Auftrag passiert — ist die einzige, die kein Wettbewerber kopieren kann.</p>
+  </div>
+
+  <div class="footer"><span>GartenArt &amp; BauProjekte — CI-Standard</span><span>Seite 2 von 2</span></div>
+</section>
+
+</body>
+</html>

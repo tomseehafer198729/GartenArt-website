@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "GartenArt & BauProjekte",
+      "hasCanvas": false,
+      "bodyTextLen": 4575,
+      "bodyTextHash": "38c2ecac52f4571b55429308f730d07ffefce5aec305e146cf641cf7a37333e6",
+      "bodyTextPrefix": "GartenArt&BauProjekte Atelier Naturgärten Pflanzen Leistungen Pr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "GartenArt & BauProjekte",
+      "hasCanvas": false,
+      "bodyTextLen": 4478,
+      "bodyTextHash": "e59937d21e84fa9ca563e85d1f8c5d6e72ee958c52e94118d006eb6f16613c79",
+      "bodyTextPrefix": "GartenArt&BauProjekte GARTENART & BAUPROJEKTE · HOCHTAUNUS · MAI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

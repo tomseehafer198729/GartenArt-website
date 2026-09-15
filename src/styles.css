@@ -1,0 +1,127 @@
+@import "tailwindcss";
+
+@theme {
+  --color-forest: #2f3d2b;
+  --color-forest-deep: #243020;
+  --color-moss: #55764c;
+  --color-leaf: #55764c;
+  --color-gold: #b99a4e;
+  --color-gold-soft: #c9b06a;
+  --color-cream: #f6f2e8;
+  --color-paper: #faf8f2;
+  --color-ink: #2b2b28;
+  --color-muted: #6e6a5f;
+  --color-line: #dcd5c4;
+  --color-danger: #8b3a2a;
+
+  --font-display: "Spectral", "Times New Roman", serif;
+  --font-sans: "Inter", "Segoe UI", system-ui, sans-serif;
+  --font-mark: "Cormorant Garamond", "Times New Roman", serif;
+  --font-lato: "Lato", "Segoe UI", system-ui, sans-serif;
+
+  --radius-xs: 2px;
+  --radius-sm: 2px;
+  --radius-md: 2px;
+  --radius-lg: 2px;
+  --radius-xl: 2px;
+
+  --shadow-border: 0 0 0 1px #dcd5c4;
+}
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    scroll-behavior: smooth;
+  }
+
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+
+  body {
+    background: var(--color-cream);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-size: 17px;
+    line-height: 1.65;
+    font-variant-numeric: lining-nums;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+    text-wrap: balance;
+    letter-spacing: 0;
+    line-height: 1.1;
+    font-weight: 400;
+    text-align: left;
+  }
+
+  h1 {
+    font-weight: 300;
+  }
+
+  p {
+    text-wrap: pretty;
+    text-align: left;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  img {
+    border-radius: 0;
+  }
+
+  ::selection {
+    background: color-mix(in oklab, var(--color-gold) 35%, transparent);
+    color: var(--color-ink);
+  }
+}
+
+@media print {
+  header,
+  footer {
+    display: none !important;
+  }
+  body {
+    background: white;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .motion-safe-only {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.rise-in {
+  animation: rise-in 400ms ease both;
+}
+
+.gold-rule {
+  height: 1px;
+  background: var(--color-gold);
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
