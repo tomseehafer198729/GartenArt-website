@@ -36,7 +36,7 @@ function AlternativenPage() {
         <h2 className="font-display text-4xl">Erstgespräch: den Garten erklären</h2>
         <p className="mt-4 max-w-xl text-muted">
           Lage, Licht, was Sie mögen. Wir sagen, welche Art den Zweck erfüllt. Jede Ersatzart
-          steht in der GEK-Liste.
+          steht in der Artenliste.
         </p>
         <div className="mt-6 flex flex-col gap-3 sm:flex-row">
           <Button asChild>

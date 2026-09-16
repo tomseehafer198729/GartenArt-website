@@ -50,7 +50,7 @@ function PlantDetailPage() {
       <PageHero
         image={image}
         compact
-        kicker={`${categoryLabel(plant.category)} · ${plant.gekId}`}
+        kicker={categoryLabel(plant.category)}
         title={plant.name}
         lede={plant.latin}
       />
@@ -80,7 +80,7 @@ function PlantDetailPage() {
 
             <h2 className="mt-10 font-display text-3xl">Blühverlauf</h2>
             <p className="mt-2 text-sm text-muted">
-              Relative Blühintensität über das Jahr, abgeleitet aus der GEK-Blütezeit.
+              Relative Blühintensität über das Jahr, abgeleitet aus der Blütezeit.
             </p>
             <ol className="mt-5 grid grid-cols-12 gap-1">
               {plant.bloomCurve.map((value, i) => (
@@ -102,7 +102,6 @@ function PlantDetailPage() {
 
           <aside className="h-fit rounded-xl bg-paper p-6">
             <dl className="space-y-4 text-sm">
-              <Row label="Kennziffer" value={plant.gekId} />
               <Row label="Anrechnung" value={creditLabel(plant.credit)} />
               <Row
                 label="Ökologischer Wert"

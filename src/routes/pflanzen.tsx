@@ -8,7 +8,7 @@ import {
   CATEGORIES,
   categoryLabel,
   creditLabel,
-  GEK_META,
+  LIST_META,
   lightLabel,
   MONTHS,
   moistureLabel,
@@ -87,9 +87,9 @@ function PflanzenPage() {
     <>
       <PageHero
         image="/images/wildblueten.jpg"
-        kicker="GEK · v4.0"
+        kicker="186 heimische Arten"
         title="Pflanzendatenbank Hessen"
-        lede={`${GEK_META.species} heimische Arten. Den Wunsch übersetzen wir in die Art, die hier denselben Zweck erfüllt. Stand ${GEK_META.date}.`}
+        lede={`${LIST_META.species} heimische Arten für Hessen. Den Wunsch übersetzen wir in die Art, die hier denselben Zweck erfüllt. Stand ${LIST_META.date}.`}
       />
       <Section>
         <p className="max-w-2xl text-muted">
@@ -120,7 +120,7 @@ function PflanzenPage() {
             <input
               value={query}
               onChange={(e) => setQuery(e.target.value)}
-              placeholder="Name, Latein, GEK-Nummer…"
+              placeholder="Name oder lateinischer Name…"
               className="h-12 w-full rounded-md border border-ink/10 bg-cream pr-10 pl-10 text-base outline-none focus:border-gold"
             />
             {query ? (
@@ -208,7 +208,6 @@ function PflanzenPage() {
                 >
                   <p className="flex items-center justify-between gap-2 text-xs uppercase tracking-[0.16em] text-gold">
                     <span>{categoryLabel(plant.category)}</span>
-                    <span className="tabular-nums opacity-80">{plant.gekId}</span>
                   </p>
                   <h3 className="mt-2 font-display text-2xl">{plant.name}</h3>
                   <p className="italic opacity-70">{plant.latin}</p>
@@ -236,15 +235,15 @@ function PflanzenPage() {
         <div id="negativliste" className="scroll-mt-24">
           <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
             <div>
-              <Kicker>GEK · 16 Arten</Kicker>
+              <Kicker>16 Arten</Kicker>
               <h2 className="mt-3 font-display text-4xl">Negativliste Bodendecker</h2>
               <p className="mt-4 max-w-2xl text-muted">
-                Diese Arten werden im GEK-System nicht empfohlen. Rechts der heimische Ersatz aus
-                der Datenbank — klickbar, wo die Art im Verzeichnis steht.
+                Diese Arten empfehlen wir nicht. Rechts der heimische Ersatz aus der
+                Artenliste — klickbar, wo die Art im Verzeichnis steht.
               </p>
             </div>
             <a
-              href="/docs/GEK-Negativliste-Bodendecker.pdf"
+              href="/docs/Negativliste-Bodendecker.pdf"
               download
               className="inline-flex min-h-11 shrink-0 items-center justify-center rounded-sm bg-forest px-4 text-sm text-cream"
             >

@@ -130,8 +130,8 @@ function hydrate(p: RawPlant): Plant {
 
 export const PLANTS: Plant[] = (raw as RawPlant[]).map(hydrate);
 
-export const GEK_META = {
-  title: "GEK Pflanzendatenbank Hessen",
+export const LIST_META = {
+  title: "Pflanzendatenbank Hessen",
   version: "4.0",
   date: "17.08.2026",
   species: PLANTS.length,

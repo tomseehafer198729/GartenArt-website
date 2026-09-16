@@ -7,7 +7,7 @@ export type WishPair = {
   instead: { slug: string; name: string }[];
 };
 
-/** Wunsch des Kunden → heimische Art aus der GEK-Liste. */
+/** Wunsch des Kunden → heimische Art aus der Artenliste. */
 export const WISH_PAIRS: WishPair[] = [
   {
     id: "lavendel",

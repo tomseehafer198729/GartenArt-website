@@ -1,7 +1,7 @@
 [
   {
     "slug": "bergahorn",
-    "gekId": "GEK-001",
+    "gekId": "001",
     "name": "Bergahorn",
     "latin": "Acer pseudoplatanus",
     "category": "baum",
@@ -47,7 +47,7 @@
   },
   {
     "slug": "eberesche",
-    "gekId": "GEK-002",
+    "gekId": "002",
     "name": "Eberesche",
     "latin": "Sorbus aucuparia",
     "category": "baum",
@@ -94,7 +94,7 @@
   },
   {
     "slug": "elsbeere",
-    "gekId": "GEK-003",
+    "gekId": "003",
     "name": "Elsbeere",
     "latin": "Sorbus torminalis",
     "category": "baum",
@@ -141,7 +141,7 @@
   },
   {
     "slug": "feldahorn",
-    "gekId": "GEK-004",
+    "gekId": "004",
     "name": "Feldahorn",
     "latin": "Acer campestre",
     "category": "baum",
@@ -189,7 +189,7 @@
   },
   {
     "slug": "feldulme",
-    "gekId": "GEK-005",
+    "gekId": "005",
     "name": "Feldulme",
     "latin": "Ulmus minor",
     "category": "baum",
@@ -235,7 +235,7 @@
   },
   {
     "slug": "flatterulme",
-    "gekId": "GEK-006",
+    "gekId": "006",
     "name": "Flatterulme",
     "latin": "Ulmus laevis",
     "category": "baum",
@@ -281,7 +281,7 @@
   },
   {
     "slug": "gemeine-esche",
-    "gekId": "GEK-007",
+    "gekId": "007",
     "name": "Gemeine Esche",
     "latin": "Fraxinus excelsior",
     "category": "baum",
@@ -329,7 +329,7 @@
   },
   {
     "slug": "grauerle",
-    "gekId": "GEK-008",
+    "gekId": "008",
     "name": "Grauerle",
     "latin": "Alnus incana",
     "category": "baum",
@@ -375,7 +375,7 @@
   },
   {
     "slug": "hainbuche",
-    "gekId": "GEK-009",
+    "gekId": "009",
     "name": "Hainbuche",
     "latin": "Carpinus betulus",
     "category": "baum",
@@ -422,7 +422,7 @@
   },
   {
     "slug": "haengebirke",
-    "gekId": "GEK-010",
+    "gekId": "010",
     "name": "Hängebirke",
     "latin": "Betula pendula",
     "category": "baum",
@@ -469,7 +469,7 @@
   },
   {
     "slug": "korbweide",
-    "gekId": "GEK-011",
+    "gekId": "011",
     "name": "Korbweide",
     "latin": "Salix viminalis",
     "category": "baum",
@@ -515,7 +515,7 @@
   },
   {
     "slug": "mehlbeere",
-    "gekId": "GEK-012",
+    "gekId": "012",
     "name": "Mehlbeere",
     "latin": "Sorbus aria",
     "category": "baum",
@@ -561,7 +561,7 @@
   },
   {
     "slug": "moorbirke",
-    "gekId": "GEK-013",
+    "gekId": "013",
     "name": "Moorbirke",
     "latin": "Betula pubescens",
     "category": "baum",
@@ -607,7 +607,7 @@
   },
   {
     "slug": "rotbuche",
-    "gekId": "GEK-014",
+    "gekId": "014",
     "name": "Rotbuche",
     "latin": "Fagus sylvatica",
     "category": "baum",
@@ -653,7 +653,7 @@
   },
   {
     "slug": "salweide",
-    "gekId": "GEK-015",
+    "gekId": "015",
     "name": "Salweide",
     "latin": "Salix caprea",
     "category": "baum",
@@ -701,7 +701,7 @@
   },
   {
     "slug": "schwarzerle",
-    "gekId": "GEK-016",
+    "gekId": "016",
     "name": "Schwarzerle",
     "latin": "Alnus glutinosa",
     "category": "baum",
@@ -747,7 +747,7 @@
   },
   {
     "slug": "schwarzpappel",
-    "gekId": "GEK-017",
+    "gekId": "017",
     "name": "Schwarzpappel",
     "latin": "Populus nigra",
     "category": "baum",
@@ -776,7 +776,7 @@
     "occurrence": "Rhein-Main, Auen",
     "status": "indigen",
     "ecology": "Stark gefährdete Auenart; hoher Insektenwert",
-    "praxis": "Echte P . nigra ist in Hessen sehr selten; im Handel meist Hybridpappeln. Herkunftsnachweis zwingend, sonst kein GEK- Wert",
+    "praxis": "Echte P . nigra ist in Hessen sehr selten; im Handel meist Hybridpappeln. Herkunftsnachweis zwingend, sonst kein Anrechnungswert",
     "edibleNote": "",
     "toxicNote": "",
     "light": [
@@ -793,7 +793,7 @@
   },
   {
     "slug": "silberweide",
-    "gekId": "GEK-018",
+    "gekId": "018",
     "name": "Silberweide",
     "latin": "Salix alba",
     "category": "baum",
@@ -839,7 +839,7 @@
   },
   {
     "slug": "sommerlinde",
-    "gekId": "GEK-019",
+    "gekId": "019",
     "name": "Sommerlinde",
     "latin": "Tilia platyphyllos",
     "category": "baum",
@@ -886,7 +886,7 @@
   },
   {
     "slug": "speierling",
-    "gekId": "GEK-020",
+    "gekId": "020",
     "name": "Speierling",
     "latin": "Sorbus domestica",
     "category": "baum",
@@ -933,7 +933,7 @@
   },
   {
     "slug": "spitzahorn",
-    "gekId": "GEK-021",
+    "gekId": "021",
     "name": "Spitzahorn",
     "latin": "Acer platanoides",
     "category": "baum",
@@ -980,7 +980,7 @@
   },
   {
     "slug": "stieleiche",
-    "gekId": "GEK-022",
+    "gekId": "022",
     "name": "Stieleiche",
     "latin": "Quercus robur",
     "category": "baum",
@@ -1028,7 +1028,7 @@
   },
   {
     "slug": "traubeneiche",
-    "gekId": "GEK-023",
+    "gekId": "023",
     "name": "Traubeneiche",
     "latin": "Quercus petraea",
     "category": "baum",
@@ -1075,7 +1075,7 @@
   },
   {
     "slug": "traubenkirsche",
-    "gekId": "GEK-024",
+    "gekId": "024",
     "name": "Traubenkirsche",
     "latin": "Prunus padus",
     "category": "baum",
@@ -1121,7 +1121,7 @@
   },
   {
     "slug": "vogelkirsche",
-    "gekId": "GEK-025",
+    "gekId": "025",
     "name": "Vogelkirsche",
     "latin": "Prunus avium",
     "category": "baum",
@@ -1167,7 +1167,7 @@
   },
   {
     "slug": "waldkiefer",
-    "gekId": "GEK-026",
+    "gekId": "026",
     "name": "Waldkiefer",
     "latin": "Pinus sylvestris",
     "category": "baum",
@@ -1214,7 +1214,7 @@
   },
   {
     "slug": "weisstanne",
-    "gekId": "GEK-027",
+    "gekId": "027",
     "name": "Weißtanne",
     "latin": "Abies alba",
     "category": "baum",
@@ -1260,7 +1260,7 @@
   },
   {
     "slug": "wildapfel",
-    "gekId": "GEK-028",
+    "gekId": "028",
     "name": "Wildapfel",
     "latin": "Malus sylvestris",
     "category": "baum",
@@ -1306,7 +1306,7 @@
   },
   {
     "slug": "wildbirne",
-    "gekId": "GEK-029",
+    "gekId": "029",
     "name": "Wildbirne",
     "latin": "Pyrus pyraster",
     "category": "baum",
@@ -1353,7 +1353,7 @@
   },
   {
     "slug": "winterlinde",
-    "gekId": "GEK-030",
+    "gekId": "030",
     "name": "Winterlinde",
     "latin": "Tilia cordata",
     "category": "baum",
@@ -1400,7 +1400,7 @@
   },
   {
     "slug": "zitterpappel-espe",
-    "gekId": "GEK-031",
+    "gekId": "031",
     "name": "Zitterpappel / Espe",
     "latin": "Populus tremula",
     "category": "baum",
@@ -1447,7 +1447,7 @@
   },
   {
     "slug": "berberitze",
-    "gekId": "GEK-032",
+    "gekId": "032",
     "name": "Berberitze",
     "latin": "Berberis vulgaris",
     "category": "strauch",
@@ -1493,7 +1493,7 @@
   },
   {
     "slug": "besenginster",
-    "gekId": "GEK-033",
+    "gekId": "033",
     "name": "Besenginster",
     "latin": "Cytisus scoparius",
     "category": "strauch",
@@ -1539,7 +1539,7 @@
   },
   {
     "slug": "brombeere",
-    "gekId": "GEK-034",
+    "gekId": "034",
     "name": "Brombeere",
     "latin": "Rubus fruticosus agg.",
     "category": "strauch",
@@ -1587,7 +1587,7 @@
   },
   {
     "slug": "echter-kreuzdorn",
-    "gekId": "GEK-035",
+    "gekId": "035",
     "name": "Echter Kreuzdorn",
     "latin": "Rhamnus cathartica",
     "category": "strauch",
@@ -1633,7 +1633,7 @@
   },
   {
     "slug": "eingriffeliger-weissdorn",
-    "gekId": "GEK-036",
+    "gekId": "036",
     "name": "Eingriffeliger Weißdorn",
     "latin": "Crataegus monogyna",
     "category": "strauch",
@@ -1680,7 +1680,7 @@
   },
   {
     "slug": "faerberginster",
-    "gekId": "GEK-037",
+    "gekId": "037",
     "name": "Färberginster",
     "latin": "Genista tinctoria",
     "category": "strauch",
@@ -1726,7 +1726,7 @@
   },
   {
     "slug": "gemeiner-schneeball",
-    "gekId": "GEK-038",
+    "gekId": "038",
     "name": "Gemeiner Schneeball",
     "latin": "Viburnum opulus",
     "category": "strauch",
@@ -1755,7 +1755,7 @@
     "occurrence": "ganz Hessen",
     "status": "indigen",
     "ecology": "Randblüten steril, Innenblüten fruchtbar; Früchte für Vögel im Winter",
-    "praxis": "Die Gartensorte 'Roseum' (Schneeball) ist vollständig steril — kein Pollen, kein Nektar, keine Frucht. Im GEK nicht anrechenbar",
+    "praxis": "Die Gartensorte 'Roseum' (Schneeball) ist vollständig steril — kein Pollen, kein Nektar, keine Frucht. Nicht anrechenbar",
     "edibleNote": "",
     "toxicNote": "Früchte roh giftig",
     "light": [
@@ -1773,7 +1773,7 @@
   },
   {
     "slug": "gewoehnlicher-wacholder",
-    "gekId": "GEK-039",
+    "gekId": "039",
     "name": "Gewöhnlicher Wacholder",
     "latin": "Juniperus communis",
     "category": "strauch",
@@ -1819,7 +1819,7 @@
   },
   {
     "slug": "hasel",
-    "gekId": "GEK-040",
+    "gekId": "040",
     "name": "Hasel",
     "latin": "Corylus avellana",
     "category": "strauch",
@@ -1865,7 +1865,7 @@
   },
   {
     "slug": "heckenrose",
-    "gekId": "GEK-041",
+    "gekId": "041",
     "name": "Heckenrose",
     "latin": "Rosa corymbifera",
     "category": "strauch",
@@ -1911,7 +1911,7 @@
   },
   {
     "slug": "himbeere",
-    "gekId": "GEK-042",
+    "gekId": "042",
     "name": "Himbeere",
     "latin": "Rubus idaeus",
     "category": "strauch",
@@ -1957,7 +1957,7 @@
   },
   {
     "slug": "hundsrose",
-    "gekId": "GEK-043",
+    "gekId": "043",
     "name": "Hundsrose",
     "latin": "Rosa canina",
     "category": "strauch",
@@ -1986,7 +1986,7 @@
     "occurrence": "ganz Hessen",
     "status": "indigen",
     "ecology": "Ungefüllte Pollenblume für Wildbienen; Hagebutten bis in den Winter; dorniger Nistschutz",
-    "praxis": "Ungefüllt ist entscheidend: gefüllte Gartenrosen liefern weder Pollen noch Nektar und zählen im GEK nicht",
+    "praxis": "Ungefüllt ist entscheidend: gefüllte Gartenrosen liefern weder Pollen noch Nektar und zählen nicht",
     "edibleNote": "ja (Hagebutten) · Ernte Sep–Nov · Tee, Marmelade — sehr vitaminreich",
     "toxicNote": "",
     "light": [
@@ -2004,7 +2004,7 @@
   },
   {
     "slug": "kornelkirsche",
-    "gekId": "GEK-044",
+    "gekId": "044",
     "name": "Kornelkirsche",
     "latin": "Cornus mas",
     "category": "strauch",
@@ -2051,7 +2051,7 @@
   },
   {
     "slug": "kratzbeere",
-    "gekId": "GEK-045",
+    "gekId": "045",
     "name": "Kratzbeere",
     "latin": "Rubus caesius",
     "category": "strauch",
@@ -2098,7 +2098,7 @@
   },
   {
     "slug": "liguster",
-    "gekId": "GEK-046",
+    "gekId": "046",
     "name": "Liguster",
     "latin": "Ligustrum vulgare",
     "category": "strauch",
@@ -2146,7 +2146,7 @@
   },
   {
     "slug": "pfaffenhuetchen",
-    "gekId": "GEK-047",
+    "gekId": "047",
     "name": "Pfaffenhütchen",
     "latin": "Euonymus europaeus",
     "category": "strauch",
@@ -2192,7 +2192,7 @@
   },
   {
     "slug": "rote-johannisbeere",
-    "gekId": "GEK-048",
+    "gekId": "048",
     "name": "Rote Johannisbeere",
     "latin": "Ribes spicatum",
     "category": "strauch",
@@ -2238,7 +2238,7 @@
   },
   {
     "slug": "roter-hartriegel",
-    "gekId": "GEK-049",
+    "gekId": "049",
     "name": "Roter Hartriegel",
     "latin": "Cornus sanguinea",
     "category": "strauch",
@@ -2285,7 +2285,7 @@
   },
   {
     "slug": "roter-holunder",
-    "gekId": "GEK-050",
+    "gekId": "050",
     "name": "Roter Holunder",
     "latin": "Sambucus racemosa",
     "category": "strauch",
@@ -2331,7 +2331,7 @@
   },
   {
     "slug": "sanddorn",
-    "gekId": "GEK-051",
+    "gekId": "051",
     "name": "Sanddorn",
     "latin": "Hippophae rhamnoides",
     "category": "strauch",
@@ -2377,7 +2377,7 @@
   },
   {
     "slug": "schlehe",
-    "gekId": "GEK-052",
+    "gekId": "052",
     "name": "Schlehe",
     "latin": "Prunus spinosa",
     "category": "strauch",
@@ -2424,7 +2424,7 @@
   },
   {
     "slug": "schwarze-johannisbeere",
-    "gekId": "GEK-053",
+    "gekId": "053",
     "name": "Schwarze Johannisbeere",
     "latin": "Ribes nigrum",
     "category": "strauch",
@@ -2470,7 +2470,7 @@
   },
   {
     "slug": "schwarzer-holunder",
-    "gekId": "GEK-054",
+    "gekId": "054",
     "name": "Schwarzer Holunder",
     "latin": "Sambucus nigra",
     "category": "strauch",
@@ -2516,7 +2516,7 @@
   },
   {
     "slug": "weinrose",
-    "gekId": "GEK-055",
+    "gekId": "055",
     "name": "Weinrose",
     "latin": "Rosa rubiginosa",
     "category": "strauch",
@@ -2562,7 +2562,7 @@
   },
   {
     "slug": "wilde-stachelbeere",
-    "gekId": "GEK-056",
+    "gekId": "056",
     "name": "Wilde Stachelbeere",
     "latin": "Ribes uva-crispa",
     "category": "strauch",
@@ -2608,7 +2608,7 @@
   },
   {
     "slug": "wolliger-schneeball",
-    "gekId": "GEK-057",
+    "gekId": "057",
     "name": "Wolliger Schneeball",
     "latin": "Viburnum lantana",
     "category": "strauch",
@@ -2655,7 +2655,7 @@
   },
   {
     "slug": "wollrose",
-    "gekId": "GEK-058",
+    "gekId": "058",
     "name": "Wollrose",
     "latin": "Rosa tomentosa",
     "category": "strauch",
@@ -2701,7 +2701,7 @@
   },
   {
     "slug": "zweigriffeliger-weissdorn",
-    "gekId": "GEK-059",
+    "gekId": "059",
     "name": "Zweigriffeliger Weißdorn",
     "latin": "Crataegus laevigata",
     "category": "strauch",
@@ -2747,7 +2747,7 @@
   },
   {
     "slug": "alpen-johannisbeere",
-    "gekId": "GEK-060",
+    "gekId": "060",
     "name": "Alpen-Johannisbeere",
     "latin": "Ribes alpinum",
     "category": "kleinstrauch",
@@ -2794,7 +2794,7 @@
   },
   {
     "slug": "bibernell-rose",
-    "gekId": "GEK-061",
+    "gekId": "061",
     "name": "Bibernell-Rose",
     "latin": "Rosa spinosissima",
     "category": "kleinstrauch",
@@ -2840,7 +2840,7 @@
   },
   {
     "slug": "eibe",
-    "gekId": "GEK-062",
+    "gekId": "062",
     "name": "Eibe",
     "latin": "Taxus baccata",
     "category": "kleinstrauch",
@@ -2887,7 +2887,7 @@
   },
   {
     "slug": "faulbaum",
-    "gekId": "GEK-063",
+    "gekId": "063",
     "name": "Faulbaum",
     "latin": "Frangula alnus",
     "category": "kleinstrauch",
@@ -2933,7 +2933,7 @@
   },
   {
     "slug": "feld-rose",
-    "gekId": "GEK-064",
+    "gekId": "064",
     "name": "Feld-Rose",
     "latin": "Rosa arvensis",
     "category": "kleinstrauch",
@@ -2979,7 +2979,7 @@
   },
   {
     "slug": "gewoehnliche-felsenbirne",
-    "gekId": "GEK-065",
+    "gekId": "065",
     "name": "Gewöhnliche Felsenbirne",
     "latin": "Amelanchier ovalis",
     "category": "kleinstrauch",
@@ -3025,7 +3025,7 @@
   },
   {
     "slug": "gewoehnliche-zwergmispel",
-    "gekId": "GEK-066",
+    "gekId": "066",
     "name": "Gewöhnliche Zwergmispel",
     "latin": "Cotoneaster integerrimus",
     "category": "kleinstrauch",
@@ -3071,7 +3071,7 @@
   },
   {
     "slug": "ohr-weide",
-    "gekId": "GEK-067",
+    "gekId": "067",
     "name": "Ohr-Weide",
     "latin": "Salix aurita",
     "category": "kleinstrauch",
@@ -3118,7 +3118,7 @@
   },
   {
     "slug": "rote-heckenkirsche",
-    "gekId": "GEK-068",
+    "gekId": "068",
     "name": "Rote Heckenkirsche",
     "latin": "Lonicera xylosteum",
     "category": "kleinstrauch",
@@ -3165,7 +3165,7 @@
   },
   {
     "slug": "stechpalme",
-    "gekId": "GEK-069",
+    "gekId": "069",
     "name": "Stechpalme",
     "latin": "Ilex aquifolium",
     "category": "kleinstrauch",
@@ -3212,7 +3212,7 @@
   },
   {
     "slug": "behaarter-ginster",
-    "gekId": "GEK-070",
+    "gekId": "070",
     "name": "Behaarter Ginster",
     "latin": "Genista pilosa",
     "category": "zwergstrauch",
@@ -3258,7 +3258,7 @@
   },
   {
     "slug": "berg-gamander",
-    "gekId": "GEK-071",
+    "gekId": "071",
     "name": "Berg-Gamander",
     "latin": "Teucrium montanum",
     "category": "zwergstrauch",
@@ -3304,7 +3304,7 @@
   },
   {
     "slug": "besenheide-heidekraut",
-    "gekId": "GEK-072",
+    "gekId": "072",
     "name": "Besenheide / Heidekraut",
     "latin": "Calluna vulgaris",
     "category": "zwergstrauch",
@@ -3351,7 +3351,7 @@
   },
   {
     "slug": "deutscher-ginster",
-    "gekId": "GEK-073",
+    "gekId": "073",
     "name": "Deutscher Ginster",
     "latin": "Genista germanica",
     "category": "zwergstrauch",
@@ -3397,7 +3397,7 @@
   },
   {
     "slug": "edel-gamander",
-    "gekId": "GEK-074",
+    "gekId": "074",
     "name": "Edel-Gamander",
     "latin": "Teucrium chamaedrys",
     "category": "zwergstrauch",
@@ -3443,7 +3443,7 @@
   },
   {
     "slug": "feld-beifuss",
-    "gekId": "GEK-075",
+    "gekId": "075",
     "name": "Feld-Beifuß",
     "latin": "Artemisia campestris",
     "category": "zwergstrauch",
@@ -3489,7 +3489,7 @@
   },
   {
     "slug": "gewoehnliches-sonnenroeschen",
-    "gekId": "GEK-076",
+    "gekId": "076",
     "name": "Gewöhnliches Sonnenröschen",
     "latin": "Helianthemum nummularium",
     "category": "zwergstrauch",
@@ -3535,7 +3535,7 @@
   },
   {
     "slug": "heidelbeere",
-    "gekId": "GEK-077",
+    "gekId": "077",
     "name": "Heidelbeere",
     "latin": "Vaccinium myrtillus",
     "category": "zwergstrauch",
@@ -3581,7 +3581,7 @@
   },
   {
     "slug": "hufeisenklee",
-    "gekId": "GEK-078",
+    "gekId": "078",
     "name": "Hufeisenklee",
     "latin": "Hippocrepis comosa",
     "category": "zwergstrauch",
@@ -3627,7 +3627,7 @@
   },
   {
     "slug": "kriech-weide",
-    "gekId": "GEK-079",
+    "gekId": "079",
     "name": "Kriech-Weide",
     "latin": "Salix repens",
     "category": "zwergstrauch",
@@ -3673,7 +3673,7 @@
   },
   {
     "slug": "preiselbeere",
-    "gekId": "GEK-080",
+    "gekId": "080",
     "name": "Preiselbeere",
     "latin": "Vaccinium vitis-idaea",
     "category": "zwergstrauch",
@@ -3719,7 +3719,7 @@
   },
   {
     "slug": "seidelbast",
-    "gekId": "GEK-081",
+    "gekId": "081",
     "name": "Seidelbast",
     "latin": "Daphne mezereum",
     "category": "zwergstrauch",
@@ -3765,7 +3765,7 @@
   },
   {
     "slug": "berg-flockenblume",
-    "gekId": "GEK-082",
+    "gekId": "082",
     "name": "Berg-Flockenblume",
     "latin": "Centaurea montana",
     "category": "staude",
@@ -3811,7 +3811,7 @@
   },
   {
     "slug": "blutweiderich",
-    "gekId": "GEK-083",
+    "gekId": "083",
     "name": "Blutweiderich",
     "latin": "Lythrum salicaria",
     "category": "staude",
@@ -3857,7 +3857,7 @@
   },
   {
     "slug": "brennnessel",
-    "gekId": "GEK-106",
+    "gekId": "106",
     "name": "Brennnessel",
     "latin": "Urtica dioica",
     "category": "staude",
@@ -3904,7 +3904,7 @@
   },
   {
     "slug": "baerlauch",
-    "gekId": "GEK-084",
+    "gekId": "084",
     "name": "Bärlauch",
     "latin": "Allium ursinum",
     "category": "staude",
@@ -3950,7 +3950,7 @@
   },
   {
     "slug": "echter-aronstab",
-    "gekId": "GEK-085",
+    "gekId": "085",
     "name": "Echter Aronstab",
     "latin": "Arum maculatum",
     "category": "staude",
@@ -3997,7 +3997,7 @@
   },
   {
     "slug": "echtes-labkraut",
-    "gekId": "GEK-086",
+    "gekId": "086",
     "name": "Echtes Labkraut",
     "latin": "Galium verum",
     "category": "staude",
@@ -4043,7 +4043,7 @@
   },
   {
     "slug": "feld-mannstreu",
-    "gekId": "GEK-087",
+    "gekId": "087",
     "name": "Feld-Mannstreu",
     "latin": "Eryngium campestre",
     "category": "staude",
@@ -4089,7 +4089,7 @@
   },
   {
     "slug": "gewoehnlicher-hornklee",
-    "gekId": "GEK-088",
+    "gekId": "088",
     "name": "Gewöhnlicher Hornklee",
     "latin": "Lotus corniculatus",
     "category": "staude",
@@ -4118,7 +4118,7 @@
     "occurrence": "ganz Hessen",
     "status": "indigen",
     "ecology": "Raupenfutter des Hauhechel-Bläulings und weiterer Arten; N2-Fixierung",
-    "praxis": "Einer der wenigen echten Raupenfutter-Bodendecker – zahlt direkt auf die GEK-Kategorie 'Insekten' ein, nicht nur auf 'Blüten'",
+    "praxis": "Einer der wenigen echten Raupenfutter-Bodendecker – zahlt direkt auf die Kategorie 'Insekten' ein, nicht nur auf 'Blüten'",
     "edibleNote": "",
     "toxicNote": "",
     "light": [
@@ -4136,7 +4136,7 @@
   },
   {
     "slug": "giersch",
-    "gekId": "GEK-107",
+    "gekId": "107",
     "name": "Giersch",
     "latin": "Aegopodium podagraria",
     "category": "staude",
@@ -4183,7 +4183,7 @@
   },
   {
     "slug": "grosses-hexenkraut",
-    "gekId": "GEK-089",
+    "gekId": "089",
     "name": "Großes Hexenkraut",
     "latin": "Circaea lutetiana",
     "category": "staude",
@@ -4229,7 +4229,7 @@
   },
   {
     "slug": "grosses-windroeschen",
-    "gekId": "GEK-090",
+    "gekId": "090",
     "name": "Großes Windröschen",
     "latin": "Anemone sylvestris",
     "category": "staude",
@@ -4276,7 +4276,7 @@
   },
   {
     "slug": "gaensebluemchen",
-    "gekId": "GEK-108",
+    "gekId": "108",
     "name": "Gänseblümchen",
     "latin": "Bellis perennis",
     "category": "staude",
@@ -4305,7 +4305,7 @@
     "occurrence": "ganz Hessen",
     "status": "indigen",
     "ecology": "Blüht fast ganzjährig; erste und letzte Nektarquelle im Rasen",
-    "praxis": "Verschwindet bei Mahdhöhe unter 5 cm. Der einfachste Beleg dafür, warum die Mahdhöhe im GEK ein eigenes Kriterium ist",
+    "praxis": "Verschwindet bei Mahdhöhe unter 5 cm. Der einfachste Beleg dafür, warum die Mahdhöhe ein eigenes Kriterium ist",
     "edibleNote": "ja (Blüten, Blätter) · Ernte Mär–Nov · Salatdeko, Tee, essbare Blüte",
     "toxicNote": "",
     "light": [
@@ -4322,7 +4322,7 @@
   },
   {
     "slug": "gaensefingerkraut",
-    "gekId": "GEK-109",
+    "gekId": "109",
     "name": "Gänsefingerkraut",
     "latin": "Potentilla anserina",
     "category": "staude",
@@ -4368,7 +4368,7 @@
   },
   {
     "slug": "kartaeuser-nelke",
-    "gekId": "GEK-091",
+    "gekId": "091",
     "name": "Kartäuser-Nelke",
     "latin": "Dianthus carthusianorum",
     "category": "staude",
@@ -4414,7 +4414,7 @@
   },
   {
     "slug": "kohldistel",
-    "gekId": "GEK-092",
+    "gekId": "092",
     "name": "Kohldistel",
     "latin": "Cirsium oleraceum",
     "category": "staude",
@@ -4460,7 +4460,7 @@
   },
   {
     "slug": "lungenkraut",
-    "gekId": "GEK-093",
+    "gekId": "093",
     "name": "Lungenkraut",
     "latin": "Pulmonaria officinalis",
     "category": "staude",
@@ -4506,7 +4506,7 @@
   },
   {
     "slug": "loewenzahn",
-    "gekId": "GEK-110",
+    "gekId": "110",
     "name": "Löwenzahn",
     "latin": "Taraxacum sect. Ruderalia",
     "category": "staude",
@@ -4552,7 +4552,7 @@
   },
   {
     "slug": "maedesuess",
-    "gekId": "GEK-094",
+    "gekId": "094",
     "name": "Mädesüß",
     "latin": "Filipendula ulmaria",
     "category": "staude",
@@ -4598,7 +4598,7 @@
   },
   {
     "slug": "natternkopf",
-    "gekId": "GEK-095",
+    "gekId": "095",
     "name": "Natternkopf",
     "latin": "Echium vulgare",
     "category": "staude",
@@ -4644,7 +4644,7 @@
   },
   {
     "slug": "rainfarn",
-    "gekId": "GEK-096",
+    "gekId": "096",
     "name": "Rainfarn",
     "latin": "Tanacetum vulgare",
     "category": "staude",
@@ -4691,7 +4691,7 @@
   },
   {
     "slug": "scharbockskraut",
-    "gekId": "GEK-111",
+    "gekId": "111",
     "name": "Scharbockskraut",
     "latin": "Ficaria verna",
     "category": "staude",
@@ -4737,7 +4737,7 @@
   },
   {
     "slug": "schlangen-knoeterich",
-    "gekId": "GEK-112",
+    "gekId": "112",
     "name": "Schlangen-Knöterich",
     "latin": "Bistorta officinalis",
     "category": "staude",
@@ -4783,7 +4783,7 @@
   },
   {
     "slug": "sumpfdotterblume",
-    "gekId": "GEK-097",
+    "gekId": "097",
     "name": "Sumpfdotterblume",
     "latin": "Caltha palustris",
     "category": "staude",
@@ -4829,7 +4829,7 @@
   },
   {
     "slug": "tauben-skabiose",
-    "gekId": "GEK-098",
+    "gekId": "098",
     "name": "Tauben-Skabiose",
     "latin": "Scabiosa columbaria",
     "category": "staude",
@@ -4875,7 +4875,7 @@
   },
   {
     "slug": "vogelmiere",
-    "gekId": "GEK-113",
+    "gekId": "113",
     "name": "Vogelmiere",
     "latin": "Stellaria media",
     "category": "staude",
@@ -4922,7 +4922,7 @@
   },
   {
     "slug": "wiesen-flockenblume",
-    "gekId": "GEK-099",
+    "gekId": "099",
     "name": "Wiesen-Flockenblume",
     "latin": "Centaurea jacea",
     "category": "staude",
@@ -4969,7 +4969,7 @@
   },
   {
     "slug": "wiesen-margerite",
-    "gekId": "GEK-100",
+    "gekId": "100",
     "name": "Wiesen-Margerite",
     "latin": "Leucanthemum vulgare",
     "category": "staude",
@@ -5015,7 +5015,7 @@
   },
   {
     "slug": "wiesen-sauerampfer",
-    "gekId": "GEK-114",
+    "gekId": "114",
     "name": "Wiesen-Sauerampfer",
     "latin": "Rumex acetosa",
     "category": "staude",
@@ -5061,7 +5061,7 @@
   },
   {
     "slug": "wiesen-schafgarbe",
-    "gekId": "GEK-101",
+    "gekId": "101",
     "name": "Wiesen-Schafgarbe",
     "latin": "Achillea millefolium",
     "category": "staude",
@@ -5108,7 +5108,7 @@
   },
   {
     "slug": "wiesen-storchschnabel",
-    "gekId": "GEK-102",
+    "gekId": "102",
     "name": "Wiesen-Storchschnabel",
     "latin": "Geranium pratense",
     "category": "staude",
@@ -5155,7 +5155,7 @@
   },
   {
     "slug": "wiesensalbei",
-    "gekId": "GEK-103",
+    "gekId": "103",
     "name": "Wiesensalbei",
     "latin": "Salvia pratensis",
     "category": "staude",
@@ -5202,7 +5202,7 @@
   },
   {
     "slug": "wilde-moehre",
-    "gekId": "GEK-104",
+    "gekId": "104",
     "name": "Wilde Möhre",
     "latin": "Daucus carota",
     "category": "staude",
@@ -5249,7 +5249,7 @@
   },
   {
     "slug": "wilder-majoran-oregano",
-    "gekId": "GEK-105",
+    "gekId": "105",
     "name": "Wilder Majoran / Oregano",
     "latin": "Origanum vulgare",
     "category": "staude",
@@ -5295,7 +5295,7 @@
   },
   {
     "slug": "arznei-thymian",
-    "gekId": "GEK-115",
+    "gekId": "115",
     "name": "Arznei-Thymian",
     "latin": "Thymus pulegioides",
     "category": "bodendecker",
@@ -5341,7 +5341,7 @@
   },
   {
     "slug": "blut-storchschnabel",
-    "gekId": "GEK-116",
+    "gekId": "116",
     "name": "Blut-Storchschnabel",
     "latin": "Geranium sanguineum",
     "category": "bodendecker",
@@ -5387,7 +5387,7 @@
   },
   {
     "slug": "buschwindroeschen",
-    "gekId": "GEK-117",
+    "gekId": "117",
     "name": "Buschwindröschen",
     "latin": "Anemone nemorosa",
     "category": "bodendecker",
@@ -5433,7 +5433,7 @@
   },
   {
     "slug": "echter-ehrenpreis",
-    "gekId": "GEK-118",
+    "gekId": "118",
     "name": "Echter Ehrenpreis",
     "latin": "Veronica officinalis",
     "category": "bodendecker",
@@ -5481,7 +5481,7 @@
   },
   {
     "slug": "efeu",
-    "gekId": "GEK-119",
+    "gekId": "119",
     "name": "Efeu",
     "latin": "Hedera helix",
     "category": "bodendecker",
@@ -5528,7 +5528,7 @@
   },
   {
     "slug": "felsen-fetthenne",
-    "gekId": "GEK-120",
+    "gekId": "120",
     "name": "Felsen-Fetthenne",
     "latin": "Sedum rupestre",
     "category": "bodendecker",
@@ -5574,7 +5574,7 @@
   },
   {
     "slug": "fruehlings-fingerkraut",
-    "gekId": "GEK-121",
+    "gekId": "121",
     "name": "Frühlings-Fingerkraut",
     "latin": "Potentilla neumanniana",
     "category": "bodendecker",
@@ -5620,7 +5620,7 @@
   },
   {
     "slug": "gelbes-windroeschen",
-    "gekId": "GEK-122",
+    "gekId": "122",
     "name": "Gelbes Windröschen",
     "latin": "Anemone ranunculoides",
     "category": "bodendecker",
@@ -5666,7 +5666,7 @@
   },
   {
     "slug": "gewoehnliches-katzenpfoetchen",
-    "gekId": "GEK-123",
+    "gekId": "123",
     "name": "Gewöhnliches Katzenpfötchen",
     "latin": "Antennaria dioica",
     "category": "bodendecker",
@@ -5712,7 +5712,7 @@
   },
   {
     "slug": "grosse-braunelle",
-    "gekId": "GEK-124",
+    "gekId": "124",
     "name": "Große Braunelle",
     "latin": "Prunella grandiflora",
     "category": "bodendecker",
@@ -5758,7 +5758,7 @@
   },
   {
     "slug": "grosse-fetthenne",
-    "gekId": "GEK-125",
+    "gekId": "125",
     "name": "Große Fetthenne",
     "latin": "Hylotelephium maximum",
     "category": "bodendecker",
@@ -5804,7 +5804,7 @@
   },
   {
     "slug": "grosse-sternmiere",
-    "gekId": "GEK-126",
+    "gekId": "126",
     "name": "Große Sternmiere",
     "latin": "Stellaria holostea",
     "category": "bodendecker",
@@ -5850,7 +5850,7 @@
   },
   {
     "slug": "gundermann",
-    "gekId": "GEK-127",
+    "gekId": "127",
     "name": "Gundermann",
     "latin": "Glechoma hederacea",
     "category": "bodendecker",
@@ -5897,7 +5897,7 @@
   },
   {
     "slug": "haselwurz",
-    "gekId": "GEK-128",
+    "gekId": "128",
     "name": "Haselwurz",
     "latin": "Asarum europaeum",
     "category": "bodendecker",
@@ -5943,7 +5943,7 @@
   },
   {
     "slug": "heide-nelke",
-    "gekId": "GEK-129",
+    "gekId": "129",
     "name": "Heide-Nelke",
     "latin": "Dianthus deltoides",
     "category": "bodendecker",
@@ -5989,7 +5989,7 @@
   },
   {
     "slug": "kleine-braunelle",
-    "gekId": "GEK-130",
+    "gekId": "130",
     "name": "Kleine Braunelle",
     "latin": "Prunella vulgaris",
     "category": "bodendecker",
@@ -6036,7 +6036,7 @@
   },
   {
     "slug": "kleiner-wiesenknopf",
-    "gekId": "GEK-131",
+    "gekId": "131",
     "name": "Kleiner Wiesenknopf",
     "latin": "Sanguisorba minor",
     "category": "bodendecker",
@@ -6082,7 +6082,7 @@
   },
   {
     "slug": "kleines-habichtskraut",
-    "gekId": "GEK-132",
+    "gekId": "132",
     "name": "Kleines Habichtskraut",
     "latin": "Pilosella officinarum",
     "category": "bodendecker",
@@ -6128,7 +6128,7 @@
   },
   {
     "slug": "kleines-immergruen",
-    "gekId": "GEK-133",
+    "gekId": "133",
     "name": "Kleines Immergrün",
     "latin": "Vinca minor",
     "category": "bodendecker",
@@ -6157,7 +6157,7 @@
     "occurrence": "ganz Hessen, meist verwildert",
     "status": "Archaeophyt (nicht sicher indigen)",
     "ecology": "Wintergrüne Deckung; geringer faunistischer Wert",
-    "praxis": "KRITISCH: wird im GaLaBau pauschal als 'heimisch' verkauft. Vorkommen in Hessen gilt weit überwiegend als alte Verwilderung aus Klostergärten. GEK: nur mit Kennzeichnung, kein Punkt in der Kategorie 'heimische Artenzahl'",
+    "praxis": "KRITISCH: wird im GaLaBau pauschal als 'heimisch' verkauft. Vorkommen in Hessen gilt weit überwiegend als alte Verwilderung aus Klostergärten. nur mit Kennzeichnung, kein Punkt in der Kategorie 'heimische Artenzahl'",
     "edibleNote": "",
     "toxicNote": "ja (Alkaloide)",
     "light": [
@@ -6175,7 +6175,7 @@
   },
   {
     "slug": "knollen-beinwell",
-    "gekId": "GEK-134",
+    "gekId": "134",
     "name": "Knollen-Beinwell",
     "latin": "Symphytum tuberosum",
     "category": "bodendecker",
@@ -6221,7 +6221,7 @@
   },
   {
     "slug": "kriechender-guensel",
-    "gekId": "GEK-135",
+    "gekId": "135",
     "name": "Kriechender Günsel",
     "latin": "Ajuga reptans",
     "category": "bodendecker",
@@ -6268,7 +6268,7 @@
   },
   {
     "slug": "maigloeckchen",
-    "gekId": "GEK-136",
+    "gekId": "136",
     "name": "Maiglöckchen",
     "latin": "Convallaria majalis",
     "category": "bodendecker",
@@ -6315,7 +6315,7 @@
   },
   {
     "slug": "milder-mauerpfeffer",
-    "gekId": "GEK-137",
+    "gekId": "137",
     "name": "Milder Mauerpfeffer",
     "latin": "Sedum sexangulare",
     "category": "bodendecker",
@@ -6361,7 +6361,7 @@
   },
   {
     "slug": "pfennigkraut",
-    "gekId": "GEK-138",
+    "gekId": "138",
     "name": "Pfennigkraut",
     "latin": "Lysimachia nummularia",
     "category": "bodendecker",
@@ -6407,7 +6407,7 @@
   },
   {
     "slug": "rundblaettrige-glockenblume",
-    "gekId": "GEK-139",
+    "gekId": "139",
     "name": "Rundblättrige Glockenblume",
     "latin": "Campanula rotundifolia",
     "category": "bodendecker",
@@ -6453,7 +6453,7 @@
   },
   {
     "slug": "ruprechtskraut",
-    "gekId": "GEK-140",
+    "gekId": "140",
     "name": "Ruprechtskraut",
     "latin": "Geranium robertianum",
     "category": "bodendecker",
@@ -6500,7 +6500,7 @@
   },
   {
     "slug": "sand-thymian",
-    "gekId": "GEK-141",
+    "gekId": "141",
     "name": "Sand-Thymian",
     "latin": "Thymus serpyllum",
     "category": "bodendecker",
@@ -6546,7 +6546,7 @@
   },
   {
     "slug": "scharfer-mauerpfeffer",
-    "gekId": "GEK-142",
+    "gekId": "142",
     "name": "Scharfer Mauerpfeffer",
     "latin": "Sedum acre",
     "category": "bodendecker",
@@ -6592,7 +6592,7 @@
   },
   {
     "slug": "seegras-segge",
-    "gekId": "GEK-143",
+    "gekId": "143",
     "name": "Seegras-Segge",
     "latin": "Carex brizoides",
     "category": "bodendecker",
@@ -6639,7 +6639,7 @@
   },
   {
     "slug": "vielbluetige-weisswurz",
-    "gekId": "GEK-144",
+    "gekId": "144",
     "name": "Vielblütige Weißwurz",
     "latin": "Polygonatum multiflorum",
     "category": "bodendecker",
@@ -6685,7 +6685,7 @@
   },
   {
     "slug": "wald-hainsimse",
-    "gekId": "GEK-145",
+    "gekId": "145",
     "name": "Wald-Hainsimse",
     "latin": "Luzula sylvatica",
     "category": "bodendecker",
@@ -6732,7 +6732,7 @@
   },
   {
     "slug": "wald-sauerklee",
-    "gekId": "GEK-146",
+    "gekId": "146",
     "name": "Wald-Sauerklee",
     "latin": "Oxalis acetosella",
     "category": "bodendecker",
@@ -6779,7 +6779,7 @@
   },
   {
     "slug": "walderdbeere",
-    "gekId": "GEK-147",
+    "gekId": "147",
     "name": "Walderdbeere",
     "latin": "Fragaria vesca",
     "category": "bodendecker",
@@ -6825,7 +6825,7 @@
   },
   {
     "slug": "waldmeister",
-    "gekId": "GEK-148",
+    "gekId": "148",
     "name": "Waldmeister",
     "latin": "Galium odoratum",
     "category": "bodendecker",
@@ -6871,7 +6871,7 @@
   },
   {
     "slug": "weisse-fetthenne",
-    "gekId": "GEK-149",
+    "gekId": "149",
     "name": "Weiße Fetthenne",
     "latin": "Sedum album",
     "category": "bodendecker",
@@ -6917,7 +6917,7 @@
   },
   {
     "slug": "weissklee",
-    "gekId": "GEK-150",
+    "gekId": "150",
     "name": "Weißklee",
     "latin": "Trifolium repens",
     "category": "bodendecker",
@@ -6963,7 +6963,7 @@
   },
   {
     "slug": "wundklee",
-    "gekId": "GEK-151",
+    "gekId": "151",
     "name": "Wundklee",
     "latin": "Anthyllis vulneraria",
     "category": "bodendecker",
@@ -7009,7 +7009,7 @@
   },
   {
     "slug": "dolden-milchstern",
-    "gekId": "GEK-152",
+    "gekId": "152",
     "name": "Dolden-Milchstern",
     "latin": "Ornithogalum umbellatum",
     "category": "geophyt",
@@ -7056,7 +7056,7 @@
   },
   {
     "slug": "herbstzeitlose",
-    "gekId": "GEK-153",
+    "gekId": "153",
     "name": "Herbstzeitlose",
     "latin": "Colchicum autumnale",
     "category": "geophyt",
@@ -7103,7 +7103,7 @@
   },
   {
     "slug": "hohler-lerchensporn",
-    "gekId": "GEK-154",
+    "gekId": "154",
     "name": "Hohler Lerchensporn",
     "latin": "Corydalis cava",
     "category": "geophyt",
@@ -7149,7 +7149,7 @@
   },
   {
     "slug": "kleines-schneegloeckchen",
-    "gekId": "GEK-155",
+    "gekId": "155",
     "name": "Kleines Schneeglöckchen",
     "latin": "Galanthus nivalis",
     "category": "geophyt",
@@ -7196,7 +7196,7 @@
   },
   {
     "slug": "maerzenbecher",
-    "gekId": "GEK-156",
+    "gekId": "156",
     "name": "Märzenbecher",
     "latin": "Leucojum vernum",
     "category": "geophyt",
@@ -7243,7 +7243,7 @@
   },
   {
     "slug": "wald-goldstern",
-    "gekId": "GEK-157",
+    "gekId": "157",
     "name": "Wald-Goldstern",
     "latin": "Gagea lutea",
     "category": "geophyt",
@@ -7289,7 +7289,7 @@
   },
   {
     "slug": "zweiblaettriger-blaustern",
-    "gekId": "GEK-158",
+    "gekId": "158",
     "name": "Zweiblättriger Blaustern",
     "latin": "Scilla bifolia",
     "category": "geophyt",
@@ -7336,7 +7336,7 @@
   },
   {
     "slug": "aufrechte-trespe",
-    "gekId": "GEK-159",
+    "gekId": "159",
     "name": "Aufrechte Trespe",
     "latin": "Bromus erectus",
     "category": "gras",
@@ -7382,7 +7382,7 @@
   },
   {
     "slug": "berg-segge",
-    "gekId": "GEK-177",
+    "gekId": "177",
     "name": "Berg-Segge",
     "latin": "Carex montana",
     "category": "gras",
@@ -7429,7 +7429,7 @@
   },
   {
     "slug": "blaugruene-binse",
-    "gekId": "GEK-183",
+    "gekId": "183",
     "name": "Blaugrüne Binse",
     "latin": "Juncus inflexus",
     "category": "gras",
@@ -7475,7 +7475,7 @@
   },
   {
     "slug": "blaugruene-segge",
-    "gekId": "GEK-160",
+    "gekId": "160",
     "name": "Blaugrüne Segge",
     "latin": "Carex flacca",
     "category": "gras",
@@ -7521,7 +7521,7 @@
   },
   {
     "slug": "draht-schmiele",
-    "gekId": "GEK-161",
+    "gekId": "161",
     "name": "Draht-Schmiele",
     "latin": "Avenella flexuosa",
     "category": "gras",
@@ -7569,7 +7569,7 @@
   },
   {
     "slug": "einbluetiges-perlgras",
-    "gekId": "GEK-162",
+    "gekId": "162",
     "name": "Einblütiges Perlgras",
     "latin": "Melica uniflora",
     "category": "gras",
@@ -7615,7 +7615,7 @@
   },
   {
     "slug": "erd-segge",
-    "gekId": "GEK-178",
+    "gekId": "178",
     "name": "Erd-Segge",
     "latin": "Carex humilis",
     "category": "gras",
@@ -7661,7 +7661,7 @@
   },
   {
     "slug": "feld-hainsimse",
-    "gekId": "GEK-163",
+    "gekId": "163",
     "name": "Feld-Hainsimse",
     "latin": "Luzula campestris",
     "category": "gras",
@@ -7708,7 +7708,7 @@
   },
   {
     "slug": "finger-segge",
-    "gekId": "GEK-179",
+    "gekId": "179",
     "name": "Finger-Segge",
     "latin": "Carex digitata",
     "category": "gras",
@@ -7754,7 +7754,7 @@
   },
   {
     "slug": "flatter-binse",
-    "gekId": "GEK-184",
+    "gekId": "184",
     "name": "Flatter-Binse",
     "latin": "Juncus effusus",
     "category": "gras",
@@ -7800,7 +7800,7 @@
   },
   {
     "slug": "glatthafer",
-    "gekId": "GEK-164",
+    "gekId": "164",
     "name": "Glatthafer",
     "latin": "Arrhenatherum elatius",
     "category": "gras",
@@ -7846,7 +7846,7 @@
   },
   {
     "slug": "goldhafer",
-    "gekId": "GEK-165",
+    "gekId": "165",
     "name": "Goldhafer",
     "latin": "Trisetum flavescens",
     "category": "gras",
@@ -7892,7 +7892,7 @@
   },
   {
     "slug": "haenge-segge",
-    "gekId": "GEK-180",
+    "gekId": "180",
     "name": "Hänge-Segge",
     "latin": "Carex pendula",
     "category": "gras",
@@ -7939,7 +7939,7 @@
   },
   {
     "slug": "land-reitgras",
-    "gekId": "GEK-166",
+    "gekId": "166",
     "name": "Land-Reitgras",
     "latin": "Calamagrostis epigejos",
     "category": "gras",
@@ -7986,7 +7986,7 @@
   },
   {
     "slug": "pfeifengras",
-    "gekId": "GEK-167",
+    "gekId": "167",
     "name": "Pfeifengras",
     "latin": "Molinia caerulea",
     "category": "gras",
@@ -8033,7 +8033,7 @@
   },
   {
     "slug": "pillen-segge",
-    "gekId": "GEK-181",
+    "gekId": "181",
     "name": "Pillen-Segge",
     "latin": "Carex pilulifera",
     "category": "gras",
@@ -8079,7 +8079,7 @@
   },
   {
     "slug": "rasenschmiele",
-    "gekId": "GEK-168",
+    "gekId": "168",
     "name": "Rasenschmiele",
     "latin": "Deschampsia cespitosa",
     "category": "gras",
@@ -8125,7 +8125,7 @@
   },
   {
     "slug": "rot-schwingel",
-    "gekId": "GEK-169",
+    "gekId": "169",
     "name": "Rot-Schwingel",
     "latin": "Festuca rubra",
     "category": "gras",
@@ -8154,7 +8154,7 @@
     "occurrence": "ganz Hessen",
     "status": "indigen",
     "ecology": "Basis jeder heimischen Rasen-/Kräuterrasenmischung",
-    "praxis": "Hauptkomponente für den GEK-konformen Gebrauchsrasen",
+    "praxis": "Hauptkomponente für den Gebrauchsrasen",
     "edibleNote": "",
     "toxicNote": "",
     "light": [
@@ -8172,7 +8172,7 @@
   },
   {
     "slug": "ruchgras",
-    "gekId": "GEK-170",
+    "gekId": "170",
     "name": "Ruchgras",
     "latin": "Anthoxanthum odoratum",
     "category": "gras",
@@ -8218,7 +8218,7 @@
   },
   {
     "slug": "schaf-schwingel",
-    "gekId": "GEK-171",
+    "gekId": "171",
     "name": "Schaf-Schwingel",
     "latin": "Festuca ovina agg.",
     "category": "gras",
@@ -8264,7 +8264,7 @@
   },
   {
     "slug": "schillergras",
-    "gekId": "GEK-172",
+    "gekId": "172",
     "name": "Schillergras",
     "latin": "Koeleria pyramidata",
     "category": "gras",
@@ -8310,7 +8310,7 @@
   },
   {
     "slug": "silbergras",
-    "gekId": "GEK-173",
+    "gekId": "173",
     "name": "Silbergras",
     "latin": "Corynephorus canescens",
     "category": "gras",
@@ -8356,7 +8356,7 @@
   },
   {
     "slug": "ufersegge",
-    "gekId": "GEK-174",
+    "gekId": "174",
     "name": "Ufersegge",
     "latin": "Carex riparia",
     "category": "gras",
@@ -8402,7 +8402,7 @@
   },
   {
     "slug": "wald-segge",
-    "gekId": "GEK-175",
+    "gekId": "175",
     "name": "Wald-Segge",
     "latin": "Carex sylvatica",
     "category": "gras",
@@ -8449,7 +8449,7 @@
   },
   {
     "slug": "winkel-segge",
-    "gekId": "GEK-182",
+    "gekId": "182",
     "name": "Winkel-Segge",
     "latin": "Carex remota",
     "category": "gras",
@@ -8495,7 +8495,7 @@
   },
   {
     "slug": "zittergras",
-    "gekId": "GEK-176",
+    "gekId": "176",
     "name": "Zittergras",
     "latin": "Briza media",
     "category": "gras",
@@ -8542,7 +8542,7 @@
   },
   {
     "slug": "breitblaettriger-rohrkolben",
-    "gekId": "GEK-185",
+    "gekId": "185",
     "name": "Breitblättriger Rohrkolben",
     "latin": "Typha latifolia",
     "category": "wasser",
@@ -8586,7 +8586,7 @@
   },
   {
     "slug": "schilf",
-    "gekId": "GEK-186",
+    "gekId": "186",
     "name": "Schilf",
     "latin": "Phragmites australis",
     "category": "wasser",

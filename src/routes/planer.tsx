@@ -29,7 +29,7 @@ type Series = {
   points: { x: number; y: number }[];
 };
 
-/** GEK-Kurve 0–100 → m². Werte ≤ 5 gelten als nicht in Blüte. */
+/** Blühkurve 0–100 → m². Werte ≤ 5 gelten als nicht in Blüte. */
 function intensityToM2(intensity: number, area: number): number {
   if (intensity <= 5) return 0;
   return Math.round((intensity / 100) * area * 10) / 10;
@@ -425,7 +425,7 @@ function PlanerPage() {
           <p>
             Jede durchgezogene Linie ist eine Art aus dem Verzeichnis. Steht die Linie im Juni bei
             100, blühen von dieser Art in einem 120-m²-Garten etwa 100 m². Der Gipfel der Kurve
-            fällt mit der GEK-Hauptblüte zusammen; außerhalb der Blütezeit liegt die Linie bei
+            fällt mit der Hauptblüte zusammen; außerhalb der Blütezeit liegt die Linie bei
             null.
           </p>
           <p>

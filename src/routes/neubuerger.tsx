@@ -11,7 +11,7 @@ import {
   type Light,
   type NeubuergerRating,
 } from "@/data/neubuerger";
-import { GEK_META } from "@/data/plants";
+import { LIST_META } from "@/data/plants";
 import { cn } from "@/lib/utils";
 
 export const Route = createFileRoute("/neubuerger")({ component: NeubuergerPage });
@@ -57,7 +57,7 @@ function NeubuergerPage() {
         <Kicker>Drei Gespräche</Kicker>
         <h2 className="mt-3 font-display text-4xl">Purist, Pragmatiker, Klima.</h2>
         <p className="mt-4 max-w-2xl text-muted">
-          Wer nur heimisch will, bleibt bei den {GEK_META.species} Arten. Diese Liste bedient den, dem wachsen
+          Wer nur heimisch will, bleibt bei den {LIST_META.species} Arten. Diese Liste bedient den, dem wachsen
           und Aussehen reicht — und den, der Hitze über Schönheit stellt. Sie sagt nicht: nimm
           Neubürger statt Heimisch.
         </p>

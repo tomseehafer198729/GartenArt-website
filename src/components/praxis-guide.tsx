@@ -86,7 +86,7 @@ export function PraxisGuide() {
           Saatgut aus der Region
         </h2>
         <p className="mt-4 max-w-2xl text-muted">
-          Sechs Mischungen, gebaut aus Arten der GEK-Liste. Herkunft Hessen und südwestdeutsches
+          Sechs Mischungen, gebaut aus heimischen Arten. Herkunft Hessen und südwestdeutsches
           Berg- und Hügelland — keine Ackerblühmischung aus dem Baumarkt. Obenauf säen, andrücken,
           mager halten.
         </p>

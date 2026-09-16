@@ -2,7 +2,7 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { PageHero } from "@/components/page-hero";
 import { Kicker, Section } from "@/components/section";
 import { Button } from "@/components/ui/button";
-import { GEK_META } from "@/data/plants";
+import { LIST_META } from "@/data/plants";
 import { SITE } from "@/data/site";
 
 export const Route = createFileRoute("/kommune")({ component: KommunePage });
@@ -110,7 +110,7 @@ function KommunePage() {
             {
               n: "02",
               t: "Heimisch pflanzen",
-              d: `${GEK_META.species} Arten aus Hessen, klimaresilient, für Ausschreibung und § 40 tauglich.`,
+              d: `${LIST_META.species} heimische Arten aus Hessen, klimaresilient, für Ausschreibung und § 40 tauglich.`,
             },
             {
               n: "03",
